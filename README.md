@@ -1,4 +1,4 @@
-# server-status-monitor
+# Apache server-status-monitor
 Script escrito em perl com a finalidade de monitorar o server-status do apache num log.
 Este script pode ser adicionado na crontab para que seja executado rotineiramente, assim gerando um arquivo de log no caminho: /opt/web/output/.
 
