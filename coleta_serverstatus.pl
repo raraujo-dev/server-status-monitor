@@ -2,7 +2,6 @@
 #
 # Script para coleta de metricas do Server Status do Apache
 #
-# Evaldo Pires Mores - 17/02/2014  
 #
 ################################################################
 
@@ -22,7 +21,7 @@ my $i=0;
 my $host = $ARGV[0];
 my $port = $ARGV[1];
 my $server= $ARGV[2];
-my $output = "/opt/web/scripts/StressTest/apache/output/";
+my $output = "/opt/web/output/";
 
 my $scriptname = basename($0);
 
